@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Mabuhay!"
+echo "Hello World!"
